@@ -67,6 +67,38 @@
             "img2": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202301/31/media/cortadas/cometa-kKJE-U190463119293Uy-1248x770@RC.jpg",
             "img3": "https://cnnespanol.cnn.com/wp-content/uploads/2023/02/230201214749-cometa-verde-pba-full-169.jpeg?quality=100&strip=info",
             "img4": "https://concepto.de/wp-content/uploads/2019/06/cometa-e1561938278988.jpg"
+        }{
+            "id":"7",
+            "nombre": "Cuásares/Quasar",
+            "descripcion": "Se les define como una galaxia recién nacida, o más bien la fuente de energía que se presenta en el agujero negro del centro de dichas galaxias",
+            "curioso": "Se forman cuando un agujero negro empieza a 'engullir' toda la materia que está a su alrededor, produciento una cantidad gigantesca de energía, lo que los convierten en los objetos más brillantes y calientes del universo conocido",
+            "imgref": "https://www.nationalgeographic.com.es/medio/2019/06/14/representacion-artistica-de-un-cuasar_37527207_1259x944.jpg",
+            "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Artist%27s_rendering_ULAS_J1120%2B0641.jpg/1200px-Artist%27s_rendering_ULAS_J1120%2B0641.jpg",
+            "img2": "https://img2.rtve.es/i/?w=1600&i=1342613711943.jpg",
+            "img3": "https://useruploads.socratic.org/3oexEVWSUaR4zaq5BTjx_quasar_1019x764.jpg",
+            "img4": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1617825884806.jpg-org"
+        },
+        {
+            "id":"8",
+            "nombre": "Planetas Raros",
+            "descripcion": "Planetas/Exoplanetas que tienen características especiales, desde uno que lo llaman el infierno mismo hasta otro que está lleno de diamantes. El primero es 'Kepler 78b', el segundo es '55 Cancri e', el tercero es 'GJ 1214 b', y el cuarto es 'TrES 2b' ",
+            "curioso": "El planeta gaseoso TrES-2b, es considerado el planeta más oscuro que se haya descubierto, se estima que solo el 1% de la luz refleja su superficie, por lo que si estuvieras allí no podrías ver más allá de tu propia nariz",
+            "imgref": "https://services.meteored.com/img/article/planet-9-hidden-planet-solar-system-space-astronomy-1654017298417_1280.jpeg",
+            "img1": "https://i.ytimg.com/vi/eKbdfUUxMts/maxresdefault.jpg",
+            "img2": "https://www.nationalgeographic.com.es/medio/2018/02/28/55-cancri-e__1280x720.JPG",
+            "img3": "https://pbs.twimg.com/media/Euf2RDcWgAE6h7L.jpg:large",
+            "img4": "https://larepublica.cronosmedia.glr.pe/migration/images/RMNZYYIWPZBLXKDSWXCUAI77QQ.jpg"
+        },
+        {
+            "id":"9",
+            "nombre": "Nebulosas",
+            "descripcion": "Son las nubes en el espacio, están constituidas por gases, polvo, y otros elementos químicos. Provienen de una explosión de una estrella moribunda, como una supernova.",
+            "curioso": "Algunas nebulosas tienen formas bastante interesantes, a la que le hiciste click tiene de nombre 'Los pilares de la creación'. Se llaman así porque el gas y el polvo que las forman se encuentra en el proceso de creación de nuevas estrellas, mientras que también está siendo erosionado por la luz de las estrellas cercanas que se han formado recientemente.",
+            "imgref": "https://i.blogs.es/5231dc/pilares-creacion-webb-edit/1366_2000.jpg",
+            "img1": "https://media.gq.com.mx/photos/61a28750cf7498ed6449b64a/3:2/w_2999,h_1999,c_limit/Nebula.jpg",
+            "img2": "https://www.meteorologiaenred.com/wp-content/uploads/2018/08/Nebulosa-de-emisi%C3%B3n.jpg",
+            "img3": "https://medicoplus.com/_next/image?url=https%3A%2F%2Fplustatic.com%2F1704%2Fconversions%2Ftipos-nebulosas-large.jpg&w=1280&q=75",
+            "img4": "https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/curiosidades.batanga.com/files/Las-nebulosas-Borges-y-el-origen-del-Sistema-Solar-1.jpg"
         }
     ]
 }
